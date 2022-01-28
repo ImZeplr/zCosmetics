@@ -1,0 +1,52 @@
+
+      # OUTFITS CONFIG #
+
+ARMORS:
+  RED:
+    NAME: "&4Red Armors"
+    PERMS: "red.armors"
+    LORE: "&bColor: &4Red"
+  BLUE:
+    NAME: "&9Blue Armors"
+    PERMS: "blue.armors"
+    LORE: "&bColor: &3Blue"
+  GREEN:
+    NAME: "&2Green Armors"
+    PERMS: "green.armors"
+    LORE: "&bColor: &aGreen"
+  ORANGE:
+    NAME: "&6Orange Armors"
+    PERMS: "orange.armors"
+    LORE: "&bColor: &aOrange"
+  YELLOW:
+    NAME: "&aYellow Armors"
+    PERMS: "yellow.armors"
+    LORE: "&bColor: &aYellow"
+  BLACK:
+    NAME: "&0Black Armors"
+    PERMS: "black.armors"
+    LORE: "&bColor: &aBlack"
+  AQUA:
+    NAME: "&bAqua Armors"
+    PERMS: "aqua.armors"
+    LORE: "&bColor: &aAqua"
+  PURPLE:
+    NAME: "&5Purple Armors"
+    PERMS: "purple.armors"
+    LORE: "&bColor: &aPurple"
+  GRAY:
+    NAME: "&7Gray Armors"
+    PERMS: "gray.armors"
+    LORE: "&bColor: &aGray"
+  MAROON:
+    NAME: "&cMaroon Armors"
+    PERMS: "maroon.armors"
+    LORE: "&bColor: &aMaroon"
+
+         # NO PERMISSIONS #
+
+NO-PERMS: "&cYou dont have permissions to use this cosmetic!"
+
+
+
+

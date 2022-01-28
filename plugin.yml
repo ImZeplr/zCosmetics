@@ -1,0 +1,11 @@
+name: zCosmetics
+version: 1.0-SNAPSHOT
+main: dev.zeplr.zcosmetic.Zeplr
+api-version: 1.0
+authors: [Zeplr]
+commands:
+  menu:
+    aliases:
+      - zeplr
+      - cosmetics
+    description: open cosmetic main menu with this command
